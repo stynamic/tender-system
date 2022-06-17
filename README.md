@@ -43,4 +43,4 @@ STEP 5:
 Start the server
 
 * run  
-`$ npm run dev`
+`$ npm start`
